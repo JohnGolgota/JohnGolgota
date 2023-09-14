@@ -62,3 +62,17 @@
 </div>
 
 ###
+
+<div align="left">
+  <a href="https://www.twitch.tv/humfreccs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=Sui&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://discord.gg/5AQ2j8dx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=ci&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/john-lopez-27668722b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=DIO&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
